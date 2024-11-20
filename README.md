@@ -8,7 +8,7 @@ I’m an aspiring AI/ML engineer with a passion for developing intelligent syste
 - Machine Learning | Deep Learning | Computer Vision
 
 ## 📫 How to reach me
-- Email: khizar.abbasi@example.com
+- Email: khizerabbasi144@gmail.com
 - LinkedIn: [Khizar Abbasi](https://www.linkedin.com/in/khizar-abbasi/)
 - GitHub: [My GitHub](https://github.com/KHIZARABBASI)
 
