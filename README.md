@@ -9,6 +9,6 @@ I’m an aspiring AI/ML engineer with a passion for developing intelligent syste
 
 ## 📫 How to reach me
 - Email: khizerabbasi144@gmail.com
-- LinkedIn: [Khizar Abbasi](https://www.linkedin.com/in/khizar-abbasi/)
+- LinkedIn: [Khizar Abbasi](https://www.linkedin.com/in/khizir-abbasi/)
 - GitHub: [My GitHub](https://github.com/KHIZARABBASI)
 
